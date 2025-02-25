@@ -4,8 +4,7 @@ Challenges Outline
 |---|---|---|
 | 1 | Introduction to Excel | Clean Data and Create a Filter |
 | 2 | Introduction to Excel  |  Create an if function to check if the transaction amount is greater than 15k. If So, return an output POSITIVE |
-| 3 | Functions | **CHALLENGES**: 1. Create a function to sum all the employee related expenses after the date in cell H8
-2. Create a function to get the mean spend before the date |
+| 3 | Functions | **CHALLENGES**: 1. Create a function to sum all the employee related expenses after the date in cell H8 2. Create a function to get the mean spend before the date |
 | 4 | SumProduct |  **CHALLENGE**: Create a Function to Sum the Total Cost to deliver the project |
 | 5 | Conditional Formatting |  **CHALLENGE**: PReplicate the Screenshot on the Side - Format Column D using icon sets and avoid errors.  |
 | 6 | LookUp Functions |  **CHALLENGE**: Extract the Account Name given the Account Number using VLook Up.  |
