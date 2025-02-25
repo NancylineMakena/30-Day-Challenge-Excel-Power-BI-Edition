@@ -1,29 +1,25 @@
-# 30-Day Data Analysis Foundations (SQL and Power BI)
-This is a repository of all the Daily Challenges to be done under the SQL - Power BI
-There are two repositories for this 30 day challenge, the first one [This repo](https://github.com/zinduaschool/SQL-30-Day-Challenge) contains only SQL related challenges. 
-
-SQL Daily Challenges Outline
+# 30-Day Data Analysis Foundations (Excel and Power BI)
+Challenges Outline 
 | Index | Lesson | Project/Quiz |
 |---|---|---|
-| 1 | Introduction to Databases | **PREP - CHALLENGE**: Determine the difference between SQL and No-SQL Databases |
-| 2 | Introduction to SQL  | **PREP - CHALLENGE**: Install MySQL and the text Editor |
-| 3 | Building Tables | **CHALLENGE**: Create a new database for a business selling products, based on examples of data you want to store within |
-| 4 | Inserting Data into Tables |  **CHALLENGE**: Given a predefined table, alter the table to insert a given set of data |
-| 5 | Basic Select Queries |  **CHALLENGE**: Practice your SQL Queries to Answer Questions, as a business owner |
-| 6 | Advanced Select Queries |  **CHALLENGE**: Practice your SQL Queries to Combine Tables to Answer Questions relating to the products as the business owner |
-| 7 | Functions with Select Queries |  **CHALLENGE**: Practice your SQL Queries to Combine Tables and add Functions to Answer Questions relating to the products as the business owner |
+| 1 | Introduction to Excel | Clean Data and Create a Filter |
+| 2 | Introduction to Excel  |  Create an if function to check if the transaction amount is greater than 15k. If So, return an output POSITIVE |
+| 3 | Functions | **CHALLENGES**: 1. Create a function to sum all the employee related expenses after the date in cell H8
+2. Create a function to get the mean spend before the date |
+| 4 | SumProduct |  **CHALLENGE**: Create a Function to Sum the Total Cost to deliver the project |
+| 5 | Conditional Formatting |  **CHALLENGE**: PReplicate the Screenshot on the Side - Format Column D using icon sets and avoid errors.  |
+| 6 | LookUp Functions |  **CHALLENGE**: Extract the Account Name given the Account Number using VLook Up.  |
+| 7 | Index and Match |  **CHALLENGE**: Extract the Account Name and Account Code given the Account Number  using Index and match Functions |
+| 8 | Text Functions |  **CHALLENGE**: The Account Number Contains Trailing and Leading White Spaces. Correct and Use Index and match to find Account Description |
+| 9 | Text Functions |  **CHALLENGE**: Use MATCH to Compare Two Lists. Goal: Is an item in List 1 also in List 2? |
+| 10 | Referencing |  **CHALLENGE**: Use MATCH to Compare Two Lists. Goal: Is an item in List 1 also in List 2? - Lock Cells |
+| 10 | Calculations |  **CHALLENGE**: Create a VLOOKUP/INDEX MATCH formula that calculates the amount of commission each sales Rep (SR) makes. |
 
-# Expected Daily Challenge Submissions and Milestones :
-- Day 1 (Prep) : 5 differences between NoSQL and SQL Databases, with examples
-- Day 2 (Prep) : No Submission Required, sorting any set up challenges with the technical mentor
-- Day 3 : Submitted in (Day 1) Challenge
-- Day 4 : Submitted in (Day 2) Challenge
-- Day 5 : Submitted in (Day 3) Challenge
-- Day 6 : Submitted in (Day 4) Challenge
-- Day 7 : Submitted in (Day 5) Challenge
 
-  
-# Expected Weekly Project Challenge Submissions and Milestones :
-- Week 1 Project : Submitted as Week 1 Project 
-- Week 2 Project : Submitted as Week 2 Project 
-
+Projects Outline 
+| Index | Lesson | Project/Quiz |
+|---|---|---|
+| 1 | Introduction to Excel | Excel-Data-Weekly-Project-Customer-Segmentation-and-Data-Profiling |
+| 2 | Intermediate Excel  |In This project, you will be required to analyze the recruitment data and communicate insights on what a HR company can do to optimize the hiring process. You have been provided by the data - Recruitment Data. |
+| 3 | Building Dashboards | |
+| 4 | Capstone Project | |
